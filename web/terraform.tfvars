@@ -1,0 +1,5 @@
+profile         = "nclouds"
+ssh_key         = "shan_nclouds"
+chef_server_url = "https://api.chef.io/organizations/nclouds-terraform"
+chef_user_name  = "skarungan"
+chef_user_key   = "~/.chef/skarungan.pem"

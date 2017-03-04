@@ -1,0 +1,13 @@
+# Compiled files
+#Ignore local states
+*.tfstate
+**/*.tfstate
+#Ignore state backups
+*.tfstate.backup
+**/*.tfstate.backup
+#Ignore state cache
+.terraform
+**/.terraform
+#Ignore variables
+.tfvars
+**/.tfvars
